@@ -1,4 +1,4 @@
-<audio autoplay="autoplay" controls="controls">  
+<audio autoplay="autoplay" loop="loop">  
    <source src="/site-background-music/Windows 8 Remix.mp3" />  
    <p>Your browser does not support the audio element.</p>   
 </audio> 
